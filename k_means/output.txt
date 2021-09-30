@@ -1,0 +1,1 @@
+Optimal number of clustres: (15, 0.007800136629603948)
